@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as software developer at Aeromesh systems ( previously known as strix systems)<br><br>i am curre3nlty learning the Openwrt , Networking ( 802.11 Conceopts)
+I am currently working as a Software Developer at Aeromesh Systems (previously known as Strix Systems).<br><br>I am currently learning OpenWrt and networking concepts, with a focus on IEEE 802.11 (Wi-Fi) technologies.
 
 
 ## 🌐 Socials:
